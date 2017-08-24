@@ -1,0 +1,2 @@
+# spiderPicture
+获取今日头条的街拍的，图片并存储到Mongodb中，由于，详情页的图片是通过ajax获取，所以需要从js中解析出详情页的url
